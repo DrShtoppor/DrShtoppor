@@ -31,5 +31,3 @@ I'm interested in Pentest, Reverse Engineering, AppSec and DevSecOps.
     <br>
   </p>
 </details>
-
-![Топ языков](https://stats.justsong.cn/api/github-readme-stats?username=DrShtoppor&layout=donut)
