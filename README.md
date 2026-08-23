@@ -32,4 +32,4 @@ I'm interested in Pentest, Reverse Engineering, AppSec and DevSecOps.
   </p>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrShtoppor&layout=compact)](https://github.com/DrShtoppor/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DrShtoppor)](https://github.com/DrShtoppor/github-profile-trophy)
