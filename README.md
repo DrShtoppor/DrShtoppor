@@ -32,7 +32,7 @@ I'm interested in Pentest, Reverse Engineering, AppSec and DevSecOps.
   </p>
 </details>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DrShtoppor)](https://git.io/streak-stats)
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   [![GitHub Streak](https://streak-stats.demolab.com/?user=DrShtoppor)](https://git.io/streak-stats)
