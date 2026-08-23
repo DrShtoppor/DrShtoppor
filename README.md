@@ -1,6 +1,5 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=52&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1200&lines=Hey+%F0%9F%91%8B+I'm+DrShtoppor;CyberSecurity+Engineer;" alt="Typing SVG" />
-
 <br/>
 
 ## About me
@@ -36,9 +35,5 @@ I'm interested in Pentest, Reverse Engineering, AppSec and DevSecOps.
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrShtoppor&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=DrShtoppor&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-  </p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DrShtoppor)](https://git.io/streak-stats)
 </details>
