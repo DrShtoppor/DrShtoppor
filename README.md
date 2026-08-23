@@ -32,8 +32,4 @@ I'm interested in Pentest, Reverse Engineering, AppSec and DevSecOps.
   </p>
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DrShtoppor)](https://git.io/streak-stats)
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DrShtoppor)](https://git.io/streak-stats)
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrShtoppor&layout=compact)](https://github.com/DrShtoppor/github-readme-stats)
